@@ -1,0 +1,6 @@
+vendor/*
+.idea/*
+database/*.db
+*.db
+main
+config/app.yml
